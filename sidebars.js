@@ -1106,26 +1106,26 @@ module.exports = {
           ],
         },
         "supernets/operate/supernets-ibft-to-polybft",
-        {
-          type: "category",
-          label: "Launch a Local Private Supernet",
-          link: {
-            type: "generated-index",
-          },
-          items: [
-            "supernets/operate/deploy/supernets-deploy-index",
-            "supernets/operate/deploy/supernets-spawn-test-chain",
-            "supernets/operate/deploy/supernets-how-to-generate-genesis",
-            "supernets/operate/deploy/supernets-how-to-configure-rootchain",
-            "supernets/operate/deploy/access-control/supernets-how-to-allowlist",
-            "supernets/operate/deploy/staking/supernets-how-to-stake",
-            "supernets/operate/deploy/supernets-how-to-start",
-          ],
-        },
         "supernets/operate/supernets-setup-dev-env",
         "supernets/operate/supernets-cross-chain",
         "supernets/operate/deploy/staking/supernets-unstake",
         "supernets/operate/supernets-performance",
+      ],
+    },
+    {
+      type: "category",
+      label: "Launch a Local Supernet",
+      link: {
+        type: "generated-index",
+      },
+      items: [
+        "supernets/operate/deploy/supernets-deploy-index",
+        "supernets/operate/deploy/supernets-spawn-test-chain",
+        "supernets/operate/deploy/supernets-how-to-generate-genesis",
+        "supernets/operate/deploy/supernets-how-to-configure-rootchain",
+        "supernets/operate/deploy/access-control/supernets-how-to-allowlist",
+        "supernets/operate/deploy/staking/supernets-how-to-stake",
+        "supernets/operate/deploy/supernets-how-to-start",
       ],
     },
     {
