@@ -40,7 +40,7 @@
     "react-dom": "^16.8.4",
     "rehype-katex": "5",
     "remark-math": "3",
-    "request": "2.75.0",
+    "request": "2.88.2",
     "semver-regex": "^3.1.4",
     "shell-quote": "1.7.3",
     "trim": "^0.0.3",

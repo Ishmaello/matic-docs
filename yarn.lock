@@ -12653,7 +12653,7 @@ replace-ext@^1.0.0:
   resolved "https://registry.npmjs.org/replace-ext/-/replace-ext-1.0.1.tgz"
   integrity sha512-yD5BHCe7quCgBph4rMQ+0KkIRKwWCrHDOX1p1Gp6HwjPM5kVoCdKGNhN7ydqqsX6lJEnQDKZ/tFMiEdQ1dvPEw==
 
-request@2, request@^2.53.0, request@^2.74.0, request@^2.88.0:
+request@2, request@2.88.2, request@^2.53.0, request@^2.74.0, request@^2.88.0:
   version "2.88.2"
   resolved "https://registry.npmjs.org/request/-/request-2.88.2.tgz"
   integrity sha512-MsvtOrfG9ZcrOwAW+Qi+F6HbD0CWXEh9ou77uOb7FM2WPhwT7smM833PzanhJLsgXjN89Ir6V2PczXNnMpwKhw==
@@ -12679,7 +12679,7 @@ request@2, request@^2.53.0, request@^2.74.0, request@^2.88.0:
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
 
-request@2.75.0, request@~2.75.0:
+request@~2.75.0:
   version "2.75.0"
   resolved "https://registry.npmjs.org/request/-/request-2.75.0.tgz"
   integrity sha512-uNXre8CefDRFBhfB1bL0CkKBD+5E1xmx69KMjl7p+bBc0vesXLQMS+iwsI2pKRlYZOOtLzkeBfz7jItKA3XlKQ==
