@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@crowdin/cli": "3",
-    "@docsearch/js": "^3.1.0",
+    "@docsearch/js": "^3.3.5",
     "@docusaurus/core": "^2.4.0",
     "@docusaurus/logger": "^2.4.0",
     "@docusaurus/plugin-client-redirects": "^2.4.0",
